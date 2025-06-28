@@ -1,4 +1,4 @@
-# 🔍 Hate Speech Detection and Classification (Multitask Learning)
+# 🔍 From Devanagari to Detection Hate, Target and Severity in Comments(Multitask and Multilabel Classification)
 
 This project focuses on identifying and categorizing hate speech from user-generated text using a **multi-task deep learning model**. It not only detects the presence of hate but also classifies its **target** (individual/group/other) and **severity** (low/medium/high).
 
