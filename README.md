@@ -6,7 +6,7 @@ This project focuses on identifying and categorizing hate speech from user-gener
 
 ## 🚀 Project Overview
 
-Given the rising volume of online content, it is crucial to detect and analyze hate speech accurately. This project leverages a **multi-output neural network** using the **Universal Sentence Encoder (USE)** as an embedding layer, built with TensorFlow and trained on a labeled dataset.
+Given the rising volume of online content, it is crucial to detect and analyze hate speech accurately. This project leverages a **multi-output neural network** using the **Universal Sentence Encoder (USE)** as an embedding layer, built with TensorFlow and trained on a labeled dataset
 
 ---
 
@@ -16,7 +16,6 @@ Given the rising volume of online content, it is crucial to detect and analyze h
 - ✅ Identify the **target** of the hate (Individual / Group / Other).
 - ✅ Assess the **severity** level (Low / Medium / High).
 - ✅ Build an end-to-end prediction system using TensorFlow and NLP preprocessing.
-
 ---
 
 ## 🛠️ Tech Stack
