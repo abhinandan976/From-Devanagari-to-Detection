@@ -20,7 +20,7 @@ Given the rising volume of online content, it is crucial to detect and classify 
 
 ## 🛠️ Tech Stack
 
-- **Python**
+- **Python 3**
 - **TensorFlow 2.12**
 - **Keras Functional API**
 - **Google Universal Sentence Encoder**
