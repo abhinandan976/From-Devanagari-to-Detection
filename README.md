@@ -12,7 +12,7 @@ Given the rising volume of online content, it is crucial to detect and classify 
 
 ## 🎯 Core Objectives
 
-- ✅ Detect whether a given text contains hate speech.
+- ✅ Detect whether a given text contains hate speech with the binary (0 or 1).
 - ✅ Identify the **target** of the hate (Individual / Group / Other).
 - ✅ Assess the **severity** level (Low / Medium / High).
 - ✅ Build an end-to-end prediction system using TensorFlow and NLP preprocessing.
